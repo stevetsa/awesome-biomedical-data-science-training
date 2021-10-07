@@ -42,7 +42,7 @@ Noble, W. S. (2009). A quick guide to organizing computational biology projects.
 
 - [Kass, R. E., Caffo, B. S., Davidian, M., Meng, X.-L., Yu, B., & Reid, N. (2016). Ten Simple Rules for Effective Statistical Practice. PLoS Computational Biology, 12(6), e1004961](http://doi.org/10.1371/journal.pcbi.1004961)
 
-- [Carey, M. A., Papin, J. A. (2018) Ten simple rules for biologists learning to program. PLOS Computational Biology 14(1): e1005871. https://doi.org/10.1371/journal.pcbi.1005871
+- [Carey, M. A., Papin, J. A. (2018) Ten simple rules for biologists learning to program. PLOS Computational Biology 14(1): e1005871.](https://doi.org/10.1371/journal.pcbi.1005871)
 
 - [Wilson, G., Aruliah, D. A., Brown, C. T., Chue Hong, N. P., Davis, M., Guy, R. T., et al. (2014). Best Practices for Scientific Computing,PLoS Biology 12(1), e1001745–2.](http://doi.org/10.1371/journal.pbio.1001745)
 
