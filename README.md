@@ -3,6 +3,7 @@ List of resources for openly available, ideally freely available, data science t
 
 Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cell/blob/master/README.md), [awesome-microbes](https://github.com/stevetsa/awesome-microbes)...
 
+[Birmingham Insititute](https://www.bioinformatics.babraham.ac.uk/training.html) - Bioinformatics course, R, Python, Perl, etc.
 
 [Data Science Central](https://www.datasciencecentral.com/) - Data Science Central is one of the leading repositories of Data Science content that is regularly updated with the latest trends across domains such as Artificial Intelligence, Machine Learning, Deep Learning, Analytics, Big Data, and much more.  
 
