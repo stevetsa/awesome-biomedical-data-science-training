@@ -5,6 +5,8 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 [Birmingham Insititute](https://www.bioinformatics.babraham.ac.uk/training.html) - Bioinformatics course, R, Python, Perl, etc.
 
+[Data Carpentry](https://datacarpentry.org/) - Data Carpentry develops and teaches workshops on the fundamental data skills needed to conduct research. Our mission is to provide researchers high-quality, domain-specific training covering the full lifecycle of data-driven research.  
+
 [Data Science Central](https://www.datasciencecentral.com/) - Data Science Central is one of the leading repositories of Data Science content that is regularly updated with the latest trends across domains such as Artificial Intelligence, Machine Learning, Deep Learning, Analytics, Big Data, and much more.  
 
 [Harvard University](https://online-learning.harvard.edu/subject/data-science) - Free online courses in R, visualization, data anlaysis, data wrangling, statistics, AI/ML.  
