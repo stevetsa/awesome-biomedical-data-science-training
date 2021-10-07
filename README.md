@@ -1,8 +1,10 @@
 # awesome-biomedical-data-science-training
+List of resources for openly available data science training opportunities with a focus on biomedical applications. Contributions welcome...  
+
+Inspired by awesome-single-cell
 
 
-
-[Data Science Central](ttps://www.datasciencecentral.com/) - Data Science Central is one of the leading repositories of Data Science content that is regularly updated with the latest trends across domains such as Artificial Intelligence, Machine Learning, Deep Learning, Analytics, Big Data, and much more.  
+[Data Science Central](https://www.datasciencecentral.com/) - Data Science Central is one of the leading repositories of Data Science content that is regularly updated with the latest trends across domains such as Artificial Intelligence, Machine Learning, Deep Learning, Analytics, Big Data, and much more.  
 
 [Harvard University](https://online-learning.harvard.edu/subject/data-science) - Free online courses in R, visualization, data anlaysis, data wrangling, statistics, AI/ML.  
 
