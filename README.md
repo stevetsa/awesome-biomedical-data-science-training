@@ -8,6 +8,8 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 [Harvard University](https://online-learning.harvard.edu/subject/data-science) - Free online courses in R, visualization, data anlaysis, data wrangling, statistics, AI/ML.  
 
+[Jeff Leek](https://github.com/jtleek) - Data science trianing in [R](https://github.com/jtleek/rpackages), [data sharing](https://github.com/jtleek/datasharing), [data analysis](https://github.com/jtleek/dataanalysis), [genomics paper](https://github.com/jtleek/genomicspapers). 
+
 [National Institute of Health - Office of Data SCience Strategy](https://datascience.nih.gov/news) - Find the latest news, announcements, and events related to data science at NIH here.  [Data Science Training at NIH](https://datascience.nih.gov/data-science-training-resources).  
 
 
