@@ -27,6 +27,8 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 [Towards Data Science](https://towardsdatascience.com/) - Towards Data Science is a Medium publication brewing with audience-oriented content not just about Data Science, but a multitude of related technologies such as Machine Learning, Programming, Visualization, and Artificial Intelligence, spanning across more than 5800 published articles.  
 
+[Workflow Description Lanugage](https://openwdl.org/)- Training and documentation for Workflow Description Langugage (WDL), which is a way to specify data processing workflows with a human-readable and -writeable syntax. 
+
 # Best Practices
 
 
