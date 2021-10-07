@@ -23,6 +23,8 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 [National Institutes of Health Library](https://www.nihlibrary.nih.gov/services/bioinformatics-support/online-bioinformatics-tutorials) - Training for a range of commercial bioinformatics resources and applications.
 
+[Nextflow](https://nf-co.re/usage/nextflow) - Learn the basics of Nextflow and how to write your own Nextflow pipelines, including documentation, training, and workshops.
+
 [Towards Data Science](https://towardsdatascience.com/) - Towards Data Science is a Medium publication brewing with audience-oriented content not just about Data Science, but a multitude of related technologies such as Machine Learning, Programming, Visualization, and Artificial Intelligence, spanning across more than 5800 published articles.  
 
 # Best Practices
