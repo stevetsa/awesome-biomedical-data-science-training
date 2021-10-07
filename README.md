@@ -5,6 +5,8 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 [Andre Reindero Bioinformatics Jupyter Notebooks](https://gist.github.com/afrendeiro/8fa43f074a64590c67c30ec7b3141cb7) - A list of jupyter notebooks in bioinformatics
 
+[Awesome-single-cell Tutorials and Workflows](https://github.com/seandavi/awesome-single-cell#tutorials-and-workflows) - Tutorials for single-cell analysis.
+
 [Birmingham Insititute](https://www.bioinformatics.babraham.ac.uk/training.html) - Bioinformatics course, R, Python, Perl, etc.
 
 [Data Carpentry](https://datacarpentry.org/) - Data Carpentry develops and teaches workshops on the fundamental data skills needed to conduct research. Our mission is to provide researchers high-quality, domain-specific training covering the full lifecycle of data-driven research.  
