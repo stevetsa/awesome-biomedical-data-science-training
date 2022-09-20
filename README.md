@@ -36,7 +36,9 @@ Noble, W. S. (2009). A quick guide to organizing computational biology projects.
 
 [NIH Best Practices for Sharing Research Software](https://github.com/seandavi/awesome-single-cell#tutorials-and-workflows) - Best practices for sharing research software and source code, developed under research grants in any stage of development, in a free and open format.
 
-[Ten great papers for biologists starting out in computational biology](https://widdowquinn.github.io/ten_great_papers/)
+ - [Gonzales, S., Carson, M. B., Holme, K. Ten simple rules for maximizing the recommendations of the NIH data management and sharing plan. PLoS Comput Biol 18(8): e1010397.](https://doi.org/10.1371/journal.pcbi.1010397)
+
+ - [Ten great papers for biologists starting out in computational biology](https://widdowquinn.github.io/ten_great_papers/)
 
  - [Noble, W. S. (2009). A quick guide to organizing computational biology projects. PLoS Computational Biology, 5(7), e1000424.](http://doi.org/10.1371/journal.pcbi.1000424)
 
